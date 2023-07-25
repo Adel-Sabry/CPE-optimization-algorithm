@@ -9,7 +9,7 @@ namespace Optimization
         public double Fitness = 0;
         public double[] Points ;
     }
-    class CHE
+    class CPE 
     {
 
         double NOFE;
